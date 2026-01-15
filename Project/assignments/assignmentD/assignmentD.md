@@ -20,9 +20,7 @@ OpenJudge账号：25n2500011906，昵称：郭旭杰
 >
 >请按照上述指导认真准备和提交作业，以保证顺利完成课程要求。
 
-![局部截取_20251209_013144](D:\腾讯电脑管家截图文件\局部截取_20251209_013144.png)
-
-![局部截取_20251209_013209](D:\腾讯电脑管家截图文件\局部截取_20251209_013209.png)
+![局部截取_20251209_013144](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_013144.png)![局部截取_20251209_013209](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_013209.png)
 
 
 
@@ -57,9 +55,9 @@ print('End')
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![局部截取_20251209_012931](D:\腾讯电脑管家截图文件\局部截取_20251209_012931.png)
+![局部截取_20251209_012931](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_012931.png)
 
-![局部截取_20251209_013005](D:\腾讯电脑管家截图文件\局部截取_20251209_013005.png)
+![局部截取_20251209_013005](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_013005.png)
 
 
 
@@ -97,9 +95,9 @@ else:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![局部截取_20251209_191929](D:\腾讯电脑管家截图文件\局部截取_20251209_191929.png)
+![局部截取_20251209_191929](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191929.png)
 
-![局部截取_20251209_191938](D:\腾讯电脑管家截图文件\局部截取_20251209_191938.png)
+![局部截取_20251209_191938](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191938.png)
 
 
 
@@ -133,9 +131,9 @@ print(max(ks), l + 1 - min(ks))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![局部截取_20251209_012949](D:\腾讯电脑管家截图文件\局部截取_20251209_012949.png)
+![局部截取_20251209_012949](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_012949.png)
 
-![局部截取_20251209_013018](D:\腾讯电脑管家截图文件\局部截取_20251209_013018.png)
+![局部截取_20251209_013018](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_013018.png)
 
 
 
@@ -326,13 +324,13 @@ for res in ress:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![局部截取_20251209_202300](D:\腾讯电脑管家截图文件\局部截取_20251209_202300.png)
+![局部截取_20251209_202300](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_202300.png)
 
-![局部截取_20251209_202314](D:\腾讯电脑管家截图文件\局部截取_20251209_202314.png)
+![局部截取_20251209_202314](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_202314.png)
 
-![局部截取_20251209_202822](D:\腾讯电脑管家截图文件\局部截取_20251209_202822.png)
+![局部截取_20251209_202822](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_202822.png)
 
-![局部截取_20251209_202903](D:\腾讯电脑管家截图文件\局部截取_20251209_202903.png)
+![局部截取_20251209_202903](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_202903.png)
 
 
 
@@ -380,11 +378,9 @@ print(res)
 
 
 
-代码运行截图 <mark>（至少包含有"Accepted"）</mark>
+代码运行截图 <mark>（至少包含有"Accepted"）</mark>![局部截取_20251209_192527](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_192527.png)
 
-![局部截取_20251209_192527](D:\腾讯电脑管家截图文件\局部截取_20251209_192527.png)
-
-![局部截取_20251209_192535](D:\腾讯电脑管家截图文件\局部截取_20251209_192535.png)
+![局部截取_20251209_192535](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_192535.png)
 
 
 
@@ -451,17 +447,17 @@ else:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![局部截取_20251209_191450](D:\腾讯电脑管家截图文件\局部截取_20251209_191450.png)
+![局部截取_20251209_191450](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191450.png)
 
-![局部截取_20251209_191559](D:\腾讯电脑管家截图文件\局部截取_20251209_191559.png)
+![局部截取_20251209_191559](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191559.png)
 
-![局部截取_20251209_191518](D:\腾讯电脑管家截图文件\局部截取_20251209_191518.png)
+![局部截取_20251209_191518](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191518.png)
 
-![局部截取_20251209_191644](D:\腾讯电脑管家截图文件\局部截取_20251209_191644.png)
+![局部截取_20251209_191644](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191644.png)
 
-![局部截取_20251209_191841](D:\腾讯电脑管家截图文件\局部截取_20251209_191841.png)
+![局部截取_20251209_191841](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191841.png)
 
-![局部截取_20251209_191759](D:\腾讯电脑管家截图文件\局部截取_20251209_191759.png)
+![局部截取_20251209_191759](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_191759.png)
 
 
 
@@ -475,5 +471,4 @@ else:
 
 这周较忙，仅在CodeForces上参加周赛并少量刷题。
 
-![局部截取_20251209_190830](D:\腾讯电脑管家截图文件\局部截取_20251209_190830.png)
-
+![局部截取_20251209_190830](D:\to@ GitHub\启动\LittleBeetroot1666\启动\2025fallCS101--------\Project\assignments\assignmentD\z_appendix\局部截取_20251209_190830.png)
