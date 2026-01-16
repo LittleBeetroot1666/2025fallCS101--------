@@ -1,0 +1,9 @@
+
+1、将【04_python自定义函数奖励_飞机大战】文件夹拖动到pycharm图标上打开
+
+2、在pycharm左下角，找到【终端】，粘贴以下命令后，回车：
+pip install pygame -i https://mirrors.aliyun.com/pypi/simple/
+
+3、等执行完成后，运行MAIN.py文件即可开始游戏
+
+按键盘方向键（上下左右）控制飞机移动
