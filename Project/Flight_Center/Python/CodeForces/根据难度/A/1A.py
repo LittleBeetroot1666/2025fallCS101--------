@@ -1,2 +1,10 @@
 n, m, a = list(map(int, input().split()))
-print(((n - 1) // a + 1) * ((m - 1) // a + 1))
+if n % a != 0:
+    l = n//a + 1
+else:
+    l = n//a
+if m % a != 0:
+    w = m//a + 1
+else:
+    w = m//a
+print(l * w)
